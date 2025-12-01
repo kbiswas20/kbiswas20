@@ -18,7 +18,7 @@ A web-app that encourages users to bet on their friends to accomplish their goal
 **Started:** October 2025  
 A tool that helps entrepreneurs by recommending them resources. I started this project for Fall AI Studio with Break Through Tech!
 
-### [da.ily](https://github.com/kbiswas20/da.ily)
+### [da.ily](https://github.com/satyamd8/da.ily)
 **Started:** March 2025  
 A website that allows students to keep track of their tasks and stay organized. I started this project for my practical web development class!
 
