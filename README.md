@@ -10,15 +10,15 @@ Currently, I'm a senior at CUNY Hunter college studying computer science and mat
 
 ## Featured Projects
 
-### [Better](https://github.com/kbiswas20/better-hackprinceton-f25)
+### [Better | better-hackprinceton-f25](https://github.com/kbiswas20/better-hackprinceton-f25)
 **Started:** November 2025  
 A web-app that encourages users to bet on their friends to accomplish their goals. I started this project at HackPrinceton Fall 2025!
 
-### [Entrepreneur Recommendation Tool](https://github.com/warramma/Fall_AI_Studio)
+### [Entrepreneur Recommendation Tool | Fall_AI_Studio](https://github.com/warramma/Fall_AI_Studio)
 **Started:** October 2025  
 A tool that helps entrepreneurs by recommending them resources. I started this project for Fall AI Studio with Break Through Tech!
 
-### [da.ily](https://github.com/satyamd8/da.ily)
+### [da.ily | satyamd8/da.ily](https://github.com/satyamd8/da.ily)
 **Started:** March 2025  
 A website that allows students to keep track of their tasks and stay organized. I started this project for my practical web development class!
 
